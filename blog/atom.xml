@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://XinghuiShen.github.io/SYS-maker-blog/blog</id>
     <title>My Maker Journey Blog</title>
-    <updated>2025-11-22T07:58:13.000Z</updated>
+    <updated>2025-12-21T12:18:37.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://XinghuiShen.github.io/SYS-maker-blog/blog"/>
     <subtitle>My Maker Journey Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[My Maker Profile]]></title>
         <id>https://XinghuiShen.github.io/SYS-maker-blog/blog/docs/my-maker-profile</id>
         <link href="https://XinghuiShen.github.io/SYS-maker-blog/blog/docs/my-maker-profile"/>
-        <updated>2025-11-22T07:58:13.000Z</updated>
+        <updated>2025-12-21T12:18:37.000Z</updated>
         <summary type="html"><![CDATA[Name | 姓名: Yashu Shao_]]></summary>
         <content type="html"><![CDATA[<h1>我的 Maker 档案</h1>
 <p><strong>Name | 姓名</strong>: <em>Yashu Shao</em>_______________</p>
@@ -120,7 +120,7 @@ I love crafting</p>
         <title type="html"><![CDATA[docs/project-tracking]]></title>
         <id>https://XinghuiShen.github.io/SYS-maker-blog/blog/docs/project-tracking</id>
         <link href="https://XinghuiShen.github.io/SYS-maker-blog/blog/docs/project-tracking"/>
-        <updated>2025-11-22T07:58:13.000Z</updated>
+        <updated>2025-12-21T12:18:37.000Z</updated>
         <summary type="html"><![CDATA[📅 Day 1: Introduction & Arduino Basics]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-day-1-introduction--arduino-basics">📅 Day 1: Introduction &amp; Arduino Basics<a href="https://xinghuishen.github.io/SYS-maker-blog/blog/docs/project-tracking#-day-1-introduction--arduino-basics" class="hash-link" aria-label="Direct link to 📅 Day 1: Introduction &amp; Arduino Basics" title="Direct link to 📅 Day 1: Introduction &amp; Arduino Basics" translate="no">​</a></h2>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-第1天介绍与-arduino-基础">📅 第1天：介绍与 Arduino 基础<a href="https://xinghuishen.github.io/SYS-maker-blog/blog/docs/project-tracking#-%E7%AC%AC1%E5%A4%A9%E4%BB%8B%E7%BB%8D%E4%B8%8E-arduino-%E5%9F%BA%E7%A1%80" class="hash-link" aria-label="Direct link to 📅 第1天：介绍与 Arduino 基础" title="Direct link to 📅 第1天：介绍与 Arduino 基础" translate="no">​</a></h2>
@@ -193,6 +193,40 @@ I love crafting</p>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="day-2-reflection--第2天反思">Day 2 Reflection | 第2天反思<a href="https://xinghuishen.github.io/SYS-maker-blog/blog/docs/project-tracking#day-2-reflection--%E7%AC%AC2%E5%A4%A9%E5%8F%8D%E6%80%9D" class="hash-link" aria-label="Direct link to Day 2 Reflection | 第2天反思" title="Direct link to Day 2 Reflection | 第2天反思" translate="no">​</a></h3>
 <p>[Your thoughts about Day 2 - add this at the end of today]</p>
 <pre tabindex="0" class="codeBlockStandalone_MEMb thin-scrollbar codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"></code></pre>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AS-25 maker-blog（Day 1）]]></title>
+        <id>https://XinghuiShen.github.io/SYS-maker-blog/blog/as-25-day-1</id>
+        <link href="https://XinghuiShen.github.io/SYS-maker-blog/blog/as-25-day-1"/>
+        <updated>2025-11-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today's task]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="todays-task">Today's task<a href="https://xinghuishen.github.io/SYS-maker-blog/blog/as-25-day-1#todays-task" class="hash-link" aria-label="Direct link to Today's task" title="Direct link to Today's task" translate="no">​</a></h2>
+<ul>
+<li class="">明确项目要求</li>
+<li class="">初步构建project结构</li>
+<li class="">使用beginner kit搭建</li>
+</ul>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="todays-outcome">Today's Outcome<a href="https://xinghuishen.github.io/SYS-maker-blog/blog/as-25-day-1#todays-outcome" class="hash-link" aria-label="Direct link to Today's Outcome" title="Direct link to Today's Outcome" translate="no">​</a></h2>
+<ol>
+<li class="">Done Air Quality Sensor's basic logic chain</li>
+<li class="">use parts in beginner kit to make a draft  of my project</li>
+<li class="">code the draft in Arduino</li>
+</ol>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="problems-i-met">Problems I met<a href="https://xinghuishen.github.io/SYS-maker-blog/blog/as-25-day-1#problems-i-met" class="hash-link" aria-label="Direct link to Problems I met" title="Direct link to Problems I met" translate="no">​</a></h2>
+<ul>
+<li class="">lack of understanding for DFrobot parts</li>
+<li class="">Arduino code reports error</li>
+</ul>
+<p><strong>Solutions：</strong><br>
+<!-- -->check code and use ChatGPT to analyse, then redevelop the code and try on the draft</p>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="今日总结">今日总结<a href="https://xinghuishen.github.io/SYS-maker-blog/blog/as-25-day-1#%E4%BB%8A%E6%97%A5%E6%80%BB%E7%BB%93" class="hash-link" aria-label="Direct link to 今日总结" title="Direct link to 今日总结" translate="no">​</a></h2>
+<p>今天是项目的第一天，已经完成了最基础的环境搭建，为后续连续记录打下了基础。</p>]]></content>
+        <category label="AS-25" term="AS-25"/>
+        <category label="日志" term="日志"/>
+        <category label="Docusaurus" term="Docusaurus"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
