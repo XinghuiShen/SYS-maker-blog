@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://XinghuiShen.github.io/SYS-maker-blog/blog</id>
     <title>My Maker Journey Blog</title>
-    <updated>2025-12-21T12:18:37.000Z</updated>
+    <updated>2025-12-21T12:48:04.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://XinghuiShen.github.io/SYS-maker-blog/blog"/>
     <subtitle>My Maker Journey Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[My Maker Profile]]></title>
         <id>https://XinghuiShen.github.io/SYS-maker-blog/blog/docs/my-maker-profile</id>
         <link href="https://XinghuiShen.github.io/SYS-maker-blog/blog/docs/my-maker-profile"/>
-        <updated>2025-12-21T12:18:37.000Z</updated>
+        <updated>2025-12-21T12:48:04.000Z</updated>
         <summary type="html"><![CDATA[Name | 姓名: Yashu Shao_]]></summary>
         <content type="html"><![CDATA[<h1>我的 Maker 档案</h1>
 <p><strong>Name | 姓名</strong>: <em>Yashu Shao</em>_______________</p>
@@ -120,7 +120,7 @@ I love crafting</p>
         <title type="html"><![CDATA[docs/project-tracking]]></title>
         <id>https://XinghuiShen.github.io/SYS-maker-blog/blog/docs/project-tracking</id>
         <link href="https://XinghuiShen.github.io/SYS-maker-blog/blog/docs/project-tracking"/>
-        <updated>2025-12-21T12:18:37.000Z</updated>
+        <updated>2025-12-21T12:48:04.000Z</updated>
         <summary type="html"><![CDATA[📅 Day 1: Introduction & Arduino Basics]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-day-1-introduction--arduino-basics">📅 Day 1: Introduction &amp; Arduino Basics<a href="https://xinghuishen.github.io/SYS-maker-blog/blog/docs/project-tracking#-day-1-introduction--arduino-basics" class="hash-link" aria-label="Direct link to 📅 Day 1: Introduction &amp; Arduino Basics" title="Direct link to 📅 Day 1: Introduction &amp; Arduino Basics" translate="no">​</a></h2>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="-第1天介绍与-arduino-基础">📅 第1天：介绍与 Arduino 基础<a href="https://xinghuishen.github.io/SYS-maker-blog/blog/docs/project-tracking#-%E7%AC%AC1%E5%A4%A9%E4%BB%8B%E7%BB%8D%E4%B8%8E-arduino-%E5%9F%BA%E7%A1%80" class="hash-link" aria-label="Direct link to 📅 第1天：介绍与 Arduino 基础" title="Direct link to 📅 第1天：介绍与 Arduino 基础" translate="no">​</a></h2>
@@ -213,6 +213,9 @@ I love crafting</p>
 <li class="">use parts in beginner kit to make a draft  of my project</li>
 <li class="">code the draft in Arduino</li>
 </ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="day-1-sensor-setup">Day 1 Sensor Setup<a href="https://xinghuishen.github.io/SYS-maker-blog/blog/as-25-day-1#day-1-sensor-setup" class="hash-link" aria-label="Direct link to Day 1 Sensor Setup" title="Direct link to Day 1 Sensor Setup" translate="no">​</a></h2>
+<p>Here is the setup for Day 1:</p>
+<p><img decoding="async" loading="lazy" alt="Day 1 Sensor" src="https://xinghuishen.github.io/SYS-maker-blog/assets/images/AS11-28-e55ccb7a2f9c81e72ed484a5329a8a8c.jpg" width="1280" height="1707" class="img_ev3q"></p>
 <hr>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="problems-i-met">Problems I met<a href="https://xinghuishen.github.io/SYS-maker-blog/blog/as-25-day-1#problems-i-met" class="hash-link" aria-label="Direct link to Problems I met" title="Direct link to Problems I met" translate="no">​</a></h2>
 <ul>
